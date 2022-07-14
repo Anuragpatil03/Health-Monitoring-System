@@ -1,4 +1,4 @@
-# ML_Diabetes_prediction
+# Health Monitoring System
 Diabetes Prediction System is to predict whether the patients have Diabetes by developing Health Monitoring System.
 Here we use Machine Learning Algorithms like KNN, SVM. Here the machine learns from the given parameters and then predicts the condition similar to true or false.
 
